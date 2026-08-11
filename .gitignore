@@ -1,0 +1,39 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Logs / temporary files
+*.log
+*.tmp
+*.dmp
+
+# Android generated files
+.gradle/
+.cxx/
+.externalNativeBuild/
+captures/
+*.apk
+*.aab
+output-metadata.json
+local.properties
+
+# Android signing files
+*.jks
+*.keystore
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
